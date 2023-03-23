@@ -1,0 +1,161 @@
+A company employee generates a series of five-digit product codes in accordance with the following rules:The codes use the digits 0, 1, 2, 3, and 4, and no others.Each digit occurs exactly once in any code.The second digit has a value exactly twice that of the first digit.The value of the third digit is less than the value of the fifth digit.
+If the last digit of an acceptable product code is 1, it must be true that the
+A - first digit is 2
+B - second digit is 0
+C - third digit is 3
+D - fourth digit is 4
+E - fourth digit is 0
+A company employee generates a series of five-digit product codes in accordance with the following rules:The codes use the digits 0, 1, 2, 3, and 4, and no others.Each digit occurs exactly once in any code.The second digit has a value exactly twice that of the first digit.The value of the third digit is less than the value of the fifth digit.
+Which one of the following must be true about any acceptable product code?
+A - The digit 1 appears in some position before the digit 2.
+B - The digit 1 appears in some position before the digit 3.
+C - The digit 2 appears in some position before the digit 3.
+D - The digit 3 appears in some position before the digit 0.
+E - The digit 4 appears in some position before the digit 3.
+A company employee generates a series of five-digit product codes in accordance with the following rules:The codes use the digits 0, 1, 2, 3, and 4, and no others.Each digit occurs exactly once in any code.The second digit has a value exactly twice that of the first digit.The value of the third digit is less than the value of the fifth digit.
+If the third digit of an acceptable product code is not 0, which one of the following must be true?
+A - The second digit of the product code is 2.
+B - The third digit of the product code is 3.
+C - The fourth digit of the product code is 0.
+D - The fifth digit of the product code is 3.
+E - The fifth digit of the product code is 1.
+A company employee generates a series of five-digit product codes in accordance with the following rules:The codes use the digits 0, 1, 2, 3, and 4, and no others.Each digit occurs exactly once in any code.The second digit has a value exactly twice that of the first digit.The value of the third digit is less than the value of the fifth digit.
+Any of the following pairs could be the third and fourth digits, respectively, of an acceptable product code, EXCEPT:
+A - 0, 1
+B - 0, 3
+C - 1, 0
+D - 3, 0
+E - 3, 4
+A company employee generates a series of five-digit product codes in accordance with the following rules:The codes use the digits 0, 1, 2, 3, and 4, and no others.Each digit occurs exactly once in any code.The second digit has a value exactly twice that of the first digit.The value of the third digit is less than the value of the fifth digit.
+Which one of the following must be true about any acceptable product code?
+A - There is exactly one digit between the digit 0 and the digit 1.
+B - There is exactly one digit between the digit 1 and the digit 2.
+C - There are at most two digits between the digit 1 and the digit 3.
+D - There are at most two digits between the digit 2 and the digit 3.
+E - There are at most two digits between the digit 2 and the digit 4.
+Exactly three films—Greed, Harvest, and Limelight—are shown during a film club's festival held on Thursday, Friday, and Saturday. Each film is shown at least once during the festival but never more than once on a given day. On each day at least one film is shown. Films are shown one at a time. The following conditions apply:On Thursday Harvest is shown, and no film is shown after it on that day.On Friday either Greed or Limelight, but not both, is shown, and no film is shown after it on that day.On Saturday either Greed or Harvest, but not both, is shown, and no film is shown after it on that day.
+Which one of the following could be a complete and accurate description of the order in which the films are shown at the festival?
+A - Thursday:  Limelight, then Harvest; Friday:  Limelight; Saturday:  Harvest
+B - Thursday:  Harvest; Friday:  Greed, then Limelight; Saturday:  Limelight, then Greed
+C - Thursday:  Harvest; Friday:  Limelight; Saturday:  Limelight, then Greed
+D - Thursday:  Greed, then Harvest, then Limelight; Friday:  Limelight; Saturday:  Greed
+E - Thursday:  Greed, then Harvest; Friday:  Limelight, then Harvest; Saturday:  Harvest
+Exactly three films—Greed, Harvest, and Limelight—are shown during a film club's festival held on Thursday, Friday, and Saturday. Each film is shown at least once during the festival but never more than once on a given day. On each day at least one film is shown. Films are shown one at a time. The following conditions apply:On Thursday Harvest is shown, and no film is shown after it on that day.On Friday either Greed or Limelight, but not both, is shown, and no film is shown after it on that day.On Saturday either Greed or Harvest, but not both, is shown, and no film is shown after it on that day.
+Which one of the following CANNOT be true?
+A - Harvest is the last film shown on each day of the festival.
+B - Limelight is shown on each day of the festival.
+C - Greed is shown second on each day of the festival.
+D - A different film is shown first on each day of the festival.
+E - A different film is shown last on each day of the festival.
+Exactly three films—Greed, Harvest, and Limelight—are shown during a film club's festival held on Thursday, Friday, and Saturday. Each film is shown at least once during the festival but never more than once on a given day. On each day at least one film is shown. Films are shown one at a time. The following conditions apply:On Thursday Harvest is shown, and no film is shown after it on that day.On Friday either Greed or Limelight, but not both, is shown, and no film is shown after it on that day.On Saturday either Greed or Harvest, but not both, is shown, and no film is shown after it on that day.
+If Limelight is never shown again during the festival once Greed is shown, then which one of the following is the maximum number of film showings that could occur during the festival?
+A - three
+B - four
+C - five
+D - six
+E - seven
+Exactly three films—Greed, Harvest, and Limelight—are shown during a film club's festival held on Thursday, Friday, and Saturday. Each film is shown at least once during the festival but never more than once on a given day. On each day at least one film is shown. Films are shown one at a time. The following conditions apply:On Thursday Harvest is shown, and no film is shown after it on that day.On Friday either Greed or Limelight, but not both, is shown, and no film is shown after it on that day.On Saturday either Greed or Harvest, but not both, is shown, and no film is shown after it on that day.
+If Greed is shown exactly three times, Harvest is shown exactly twice, and Limelight is shown exactly once, then which one of the following must be true?
+A - All three films are shown on Thursday.
+B - Exactly two films are shown on Saturday.
+C - Limelight and Harvest are both shown on Thursday.
+D - Greed is the only film shown on Saturday.
+E - Harvest and Greed are both shown on Friday.
+Exactly three films—Greed, Harvest, and Limelight—are shown during a film club's festival held on Thursday, Friday, and Saturday. Each film is shown at least once during the festival but never more than once on a given day. On each day at least one film is shown. Films are shown one at a time. The following conditions apply:On Thursday Harvest is shown, and no film is shown after it on that day.On Friday either Greed or Limelight, but not both, is shown, and no film is shown after it on that day.On Saturday either Greed or Harvest, but not both, is shown, and no film is shown after it on that day.
+If Limelight is shown exactly three times, Harvest is shown exactly twice, and Greed is shown exactly once, then which one of the following is a complete and accurate list of the films that could be the first film shown on Thursday?
+A - Harvest
+B - Limelight
+C - Greed, Harvest
+D - Greed, Limelight
+E - Greed, Harvest, Limelight
+A cruise line is scheduling seven week-long voyages for the ship Freedom. Each voyage will occur in exactly one of the first seven weeks of the season:  weeks 1 through 7. Each voyage will be to exactly one of four destinations:  Guadeloupe, Jamaica, Martinique, or Trinidad. Each destination will be scheduled for at least one of the weeks. The following conditions apply to Freedom's schedule:Jamaica will not be its destination in week 4.Trinidad will be its destination in week 7.Freedom will make exactly two voyages to Martinique, and at least one voyage to Guadeloupe will occur in some week between those two voyages.Guadeloupe will be its destination in the week preceding any voyage it makes to Jamaica.No destination will be scheduled for consecutive weeks.
+Which one of the following is an acceptable schedule of destinations for Freedom, in order from week 1 through week 7?
+A - Guadeloupe, Jamaica, Martinique, Trinidad, Guadeloupe, Martinique, Trinidad
+B - Guadeloupe, Martinique, Trinidad, Martinique, Guadeloupe, Jamaica, Trinidad
+C - Jamaica, Martinique, Guadeloupe, Martinique, Guadeloupe, Jamaica, Trinidad
+D - Martinique, Trinidad, Guadeloupe, Jamaica, Martinique, Guadeloupe, Trinidad
+E - Martinique, Trinidad, Guadeloupe, Trinidad, Guadeloupe, Jamaica, Martinique
+A cruise line is scheduling seven week-long voyages for the ship Freedom. Each voyage will occur in exactly one of the first seven weeks of the season:  weeks 1 through 7. Each voyage will be to exactly one of four destinations:  Guadeloupe, Jamaica, Martinique, or Trinidad. Each destination will be scheduled for at least one of the weeks. The following conditions apply to Freedom's schedule:Jamaica will not be its destination in week 4.Trinidad will be its destination in week 7.Freedom will make exactly two voyages to Martinique, and at least one voyage to Guadeloupe will occur in some week between those two voyages.Guadeloupe will be its destination in the week preceding any voyage it makes to Jamaica.No destination will be scheduled for consecutive weeks.
+Which one of the following CANNOT be true about Freedom's schedule of voyages?
+A - Freedom makes a voyage to Trinidad in week 6.
+B - Freedom makes a voyage to Martinique in week 5.
+C - Freedom makes a voyage to Jamaica in week 6.
+D - Freedom makes a voyage to Jamaica in week 3.
+E - Freedom makes a voyage to Guadeloupe in week 3.
+A cruise line is scheduling seven week-long voyages for the ship Freedom. Each voyage will occur in exactly one of the first seven weeks of the season:  weeks 1 through 7. Each voyage will be to exactly one of four destinations:  Guadeloupe, Jamaica, Martinique, or Trinidad. Each destination will be scheduled for at least one of the weeks. The following conditions apply to Freedom's schedule:Jamaica will not be its destination in week 4.Trinidad will be its destination in week 7.Freedom will make exactly two voyages to Martinique, and at least one voyage to Guadeloupe will occur in some week between those two voyages.Guadeloupe will be its destination in the week preceding any voyage it makes to Jamaica.No destination will be scheduled for consecutive weeks.
+If Freedom makes a voyage to Trinidad in week 5, which one of the following could be true?
+A - Freedom makes a voyage to Trinidad in week 1.
+B - Freedom makes a voyage to Martinique in week 2.
+C - Freedom makes a voyage to Guadeloupe in week 3.
+D - Freedom makes a voyage to Martinique in week 4.
+E - Freedom makes a voyage to Jamaica in week 6.
+A cruise line is scheduling seven week-long voyages for the ship Freedom. Each voyage will occur in exactly one of the first seven weeks of the season:  weeks 1 through 7. Each voyage will be to exactly one of four destinations:  Guadeloupe, Jamaica, Martinique, or Trinidad. Each destination will be scheduled for at least one of the weeks. The following conditions apply to Freedom's schedule:Jamaica will not be its destination in week 4.Trinidad will be its destination in week 7.Freedom will make exactly two voyages to Martinique, and at least one voyage to Guadeloupe will occur in some week between those two voyages.Guadeloupe will be its destination in the week preceding any voyage it makes to Jamaica.No destination will be scheduled for consecutive weeks.
+If Freedom makes a voyage to Guadeloupe in week 1 and a voyage to Jamaica in week 5, which one of the following must be true?
+A - Freedom makes a voyage to Jamaica in week 2.
+B - Freedom makes a voyage to Trinidad in week 2.
+C - Freedom makes a voyage to Martinique in week 3.
+D - Freedom makes a voyage to Guadeloupe in week 6.
+E - Freedom makes a voyage to Martinique in week 6.
+A cruise line is scheduling seven week-long voyages for the ship Freedom. Each voyage will occur in exactly one of the first seven weeks of the season:  weeks 1 through 7. Each voyage will be to exactly one of four destinations:  Guadeloupe, Jamaica, Martinique, or Trinidad. Each destination will be scheduled for at least one of the weeks. The following conditions apply to Freedom's schedule:Jamaica will not be its destination in week 4.Trinidad will be its destination in week 7.Freedom will make exactly two voyages to Martinique, and at least one voyage to Guadeloupe will occur in some week between those two voyages.Guadeloupe will be its destination in the week preceding any voyage it makes to Jamaica.No destination will be scheduled for consecutive weeks.
+If Freedom makes a voyage to Guadeloupe in week 1 and to Trinidad in week 2, which one of the following must be true?
+A - Freedom makes a voyage to Martinique in week 3.
+B - Freedom makes a voyage to Martinique in week 4.
+C - Freedom makes a voyage to Martinique in week 5.
+D - Freedom makes a voyage to Guadeloupe in week 3.
+E - Freedom makes a voyage to Guadeloupe in week 5.
+A cruise line is scheduling seven week-long voyages for the ship Freedom. Each voyage will occur in exactly one of the first seven weeks of the season:  weeks 1 through 7. Each voyage will be to exactly one of four destinations:  Guadeloupe, Jamaica, Martinique, or Trinidad. Each destination will be scheduled for at least one of the weeks. The following conditions apply to Freedom's schedule:Jamaica will not be its destination in week 4.Trinidad will be its destination in week 7.Freedom will make exactly two voyages to Martinique, and at least one voyage to Guadeloupe will occur in some week between those two voyages.Guadeloupe will be its destination in the week preceding any voyage it makes to Jamaica.No destination will be scheduled for consecutive weeks.
+If Freedom makes a voyage to Martinique in week 3, which one of the following could be an accurate list of Freedom's destinations in week 4 and week 5, respectively?
+A - Guadeloupe, Trinidad
+B - Jamaica, Guadeloupe
+C - Martinique, Trinidad
+D - Trinidad, Jamaica
+E - Trinidad, Martinique
+A cruise line is scheduling seven week-long voyages for the ship Freedom. Each voyage will occur in exactly one of the first seven weeks of the season:  weeks 1 through 7. Each voyage will be to exactly one of four destinations:  Guadeloupe, Jamaica, Martinique, or Trinidad. Each destination will be scheduled for at least one of the weeks. The following conditions apply to Freedom's schedule:Jamaica will not be its destination in week 4.Trinidad will be its destination in week 7.Freedom will make exactly two voyages to Martinique, and at least one voyage to Guadeloupe will occur in some week between those two voyages.Guadeloupe will be its destination in the week preceding any voyage it makes to Jamaica.No destination will be scheduled for consecutive weeks.
+Which one of the following must be true about Freedom's schedule of voyages?
+A - Freedom makes a voyage to Guadeloupe either in week 1 or else in week 2.
+B - Freedom makes a voyage to Martinique either in week 2 or else in week 3.
+C - Freedom makes at most two voyages to Guadeloupe.
+D - Freedom makes at most two voyages to Jamaica.
+E - Freedom makes at most two voyages to Trinidad.
+There are exactly three recycling centers in Rivertown:  Center 1, Center 2, and Center 3. Exactly five kinds of material are recycled at these recycling centers:  glass, newsprint, plastic, tin, and wood. Each recycling center recycles at least two but no more than three of these kinds of material. The following conditions must hold:Any recycling center that recycles wood also recycles newsprint.Every kind of material that Center 2 recycles is also recycled at Center 1.Only one of the recycling centers recycles plastic, and that recycling center does not recycle glass.
+Which one of the following could be an accurate account of all the kinds of material recycled at each recycling center in Rivertown?
+A - Center 1: newsprint, plastic, wood; Center 2: newsprint, wood; Center 3: glass, tin, wood
+B - Center 1: glass, newsprint, tin; Center 2: glass, newsprint, tin; Center 3: newsprint, plastic, wood
+C - Center 1: glass, newsprint, wood; Center 2: glass, newsprint, tin; Center 3: plastic, tin
+D - Center 1: glass, plastic, tin; Center 2: glass, tin; Center 3: newsprint, wood
+E - Center 1: newsprint, plastic, wood; Center 2: newsprint, plastic, wood; Center 3: glass, newsprint, tin
+There are exactly three recycling centers in Rivertown:  Center 1, Center 2, and Center 3. Exactly five kinds of material are recycled at these recycling centers:  glass, newsprint, plastic, tin, and wood. Each recycling center recycles at least two but no more than three of these kinds of material. The following conditions must hold:Any recycling center that recycles wood also recycles newsprint.Every kind of material that Center 2 recycles is also recycled at Center 1.Only one of the recycling centers recycles plastic, and that recycling center does not recycle glass.
+Which one of the following is a complete and accurate list of the recycling centers in Rivertown any one of which could recycle plastic?
+A - Center 1 only
+B - Center 3 only
+C - Center 1, Center 2
+D - Center 1, Center 3
+E - Center 1, Center 2, Center 3
+There are exactly three recycling centers in Rivertown:  Center 1, Center 2, and Center 3. Exactly five kinds of material are recycled at these recycling centers:  glass, newsprint, plastic, tin, and wood. Each recycling center recycles at least two but no more than three of these kinds of material. The following conditions must hold:Any recycling center that recycles wood also recycles newsprint.Every kind of material that Center 2 recycles is also recycled at Center 1.Only one of the recycling centers recycles plastic, and that recycling center does not recycle glass.
+If Center 2 recycles three kinds of material, then which one of the following kinds of material must Center 3 recycle?
+A - glass
+B - newsprint
+C - plastic
+D - tin
+E - wood
+There are exactly three recycling centers in Rivertown:  Center 1, Center 2, and Center 3. Exactly five kinds of material are recycled at these recycling centers:  glass, newsprint, plastic, tin, and wood. Each recycling center recycles at least two but no more than three of these kinds of material. The following conditions must hold:Any recycling center that recycles wood also recycles newsprint.Every kind of material that Center 2 recycles is also recycled at Center 1.Only one of the recycling centers recycles plastic, and that recycling center does not recycle glass.
+If each recycling center in Rivertown recycles exactly three kinds of material, then which one of the following could be true?
+A - Only Center 2 recycles glass.
+B - Only Center 3 recycles newsprint.
+C - Only Center 1 recycles plastic.
+D - Only Center 3 recycles tin.
+E - Only Center 1 recycles wood.
+There are exactly three recycling centers in Rivertown:  Center 1, Center 2, and Center 3. Exactly five kinds of material are recycled at these recycling centers:  glass, newsprint, plastic, tin, and wood. Each recycling center recycles at least two but no more than three of these kinds of material. The following conditions must hold:Any recycling center that recycles wood also recycles newsprint.Every kind of material that Center 2 recycles is also recycled at Center 1.Only one of the recycling centers recycles plastic, and that recycling center does not recycle glass.
+If Center 3 recycles glass, then which one of the following kinds of material must Center 2 recycle?
+A - glass
+B - newsprint
+C - plastic
+D - tin
+E - wood
+There are exactly three recycling centers in Rivertown:  Center 1, Center 2, and Center 3. Exactly five kinds of material are recycled at these recycling centers:  glass, newsprint, plastic, tin, and wood. Each recycling center recycles at least two but no more than three of these kinds of material. The following conditions must hold:Any recycling center that recycles wood also recycles newsprint.Every kind of material that Center 2 recycles is also recycled at Center 1.Only one of the recycling centers recycles plastic, and that recycling center does not recycle glass.
+If Center 1 is the only recycling center that recycles wood, then which one of the following could be a complete and accurate list of the kinds of material that one of the recycling centers recycles?
+A - plastic, tin
+B - newsprint, wood
+C - newsprint, tin
+D - glass, wood
+E - glass, tin
